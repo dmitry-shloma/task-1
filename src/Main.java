@@ -7,4 +7,4 @@ public class Main {
 	Algorythm alogrythm = new Algorythm();
     }
 }
-werwerwerwerw
+werwerwerwerw`12`12`21`2
